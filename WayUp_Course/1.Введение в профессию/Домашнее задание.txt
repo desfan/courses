@@ -1,0 +1,23 @@
+	Домашнее задание
+	Установить программы:
+	
+	1)  Sublime Text + плагин emmet 
+    https://www.sublimetext.com/3   
+	2)  WinSCP    
+    https://winscp.net/eng/download.php#download2
+	3)  Adobe Photoshop
+	4)  Avocode
+    https://avocode.com/
+	5)  XAMPP  
+    https://www.apachefriends.org/ru/index.html
+	6)  Open Server 
+    https://ospanel.io/download/
+
+	Ссылки из урока
+	reg.ru
+	nic.ru
+	timeweb.ru
+	ukraine.com.ua
+	hostpro.ua
+
+
